@@ -1,2 +1,2 @@
 # collection
-Projects
+Projects from codecademy
